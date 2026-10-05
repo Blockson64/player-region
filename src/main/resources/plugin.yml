@@ -1,0 +1,6 @@
+name: player-region
+version: '${version}'
+
+main: io.github.blockson64.playerRegion.PlayerRegion
+api-version: '26.3'
+load: POSTWORLD
