@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"io.github.blockson64.playerRegion.api","l":"PlayerRegionApi","k":"10"},{"p":"io.github.blockson64.playerRegion.api","l":"PlayerRegionSubscription","k":"10"}];updateSearchResults();
